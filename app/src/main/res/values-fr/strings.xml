@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="share">"Partager via"</string>
+    <string name="no">"La liste des données est vide"</string>
+</resources>
